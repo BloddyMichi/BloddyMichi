@@ -87,3 +87,11 @@ Please include:
 - game version
 - MelonLoader version
 - log file or screenshot
+
+- ## 💬 Community / Support
+
+For questions, feedback, bug reports, or modding discussions, you can join my Discord modding server.
+
+Für Fragen, Feedback, Fehlerberichte oder Modding-Diskussionen kannst du meinem Discord-Modding-Server beitreten.
+
+🔗 Discord: https://discord.gg/cRS4bCKUbe
