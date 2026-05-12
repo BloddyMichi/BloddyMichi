@@ -24,6 +24,9 @@ I'm a dedicated developer focused on creating robust, maintainable tools for Uni
 
 #### Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -61,6 +64,7 @@ I'm a dedicated developer focused on creating robust, maintainable tools for Uni
 | **Debugging & Inspection** | Runtime object inspection, component analysis, memory debugging |
 | **Release Engineering** | Automated build pipelines, package distribution, version management |
 | **Documentation** | Technical guides, API documentation, troubleshooting resources |
+| **Scripting & Automation** | PowerShell, Lua, JavaScript for custom tools and workflows |
 
 ### 📊 Development Approach
 
@@ -117,6 +121,9 @@ Ich bin ein engagierter Entwickler, der sich auf die Erstellung robuster und war
 
 #### Programmiersprachen
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -154,6 +161,7 @@ Ich bin ein engagierter Entwickler, der sich auf die Erstellung robuster und war
 | **Debugging & Inspektion** | Laufzeit-Objekt Inspektion, Komponenten-Analyse, Memory Debugging |
 | **Release Engineering** | Automatisierte Build-Pipelines, Paketverteilung, Versionsverwaltung |
 | **Dokumentation** | Technische Guides, API Dokumentation, Troubleshooting Ressourcen |
+| **Scripting & Automatisierung** | PowerShell, Lua, JavaScript für Custom Tools und Workflows |
 
 ### 📊 Entwicklungs-Ansatz
 
