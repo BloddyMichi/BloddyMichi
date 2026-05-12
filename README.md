@@ -49,9 +49,12 @@ A Bloody-maintained UnityExplorer fork with modern build support, MelonLoader co
 ## 🛠️ Tools & Technologies
 
 ![C#](https://img.shields.io/badge/C%23-Developer-blue)
+![PowerShell](https://img.shields.io/badge/PowerShell-Scripts-5391FE)
 ![Unity](https://img.shields.io/badge/Unity-Modding-black)
-![MelonLoader](https://img.shields.io/badge/MelonLoader-Compatible-purple)
+![Unity 6](https://img.shields.io/badge/Unity6-Support-lightgrey)
+![MelonLoader](https://img.shields.io/badge/MelonLoader-0.7.2-purple)
 ![IL2CPP](https://img.shields.io/badge/IL2CPP-Tools-orange)
+![Inspector](https://img.shields.io/badge/Inspector-Tools-red)
 ![GitHub](https://img.shields.io/badge/GitHub-Releases-green)
 
 ---
