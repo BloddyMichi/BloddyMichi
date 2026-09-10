@@ -1,18 +1,87 @@
-# 👋 BloddyMichi - Unity Modding Developer
+<a id="top"></a>
 
-**Specialized in IL2CPP modding tools, UnityExplorer customization, and MelonLoader compatibility**
+<h1 align="center">👋 Hi, I'm BloddyMichi</h1>
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?logo=discord)](https://discord.gg/cRS4bCKUbe)
-[![GitHub](https://img.shields.io/badge/GitHub-@BloddyMichi-181717?logo=github)](https://github.com/BloddyMichi)
+<p align="center">
+  <b>Unity Modding Developer</b> — IL2CPP tooling · UnityExplorer customization · MelonLoader compatibility
+</p>
 
-**Language / Sprache:** [🇬🇧 English](#-english) · [🇩🇪 Deutsch](#-deutsch)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3500&pause=1000&color=9B59B6&center=true&vCenter=true&width=560&lines=IL2CPP+%26+Unity+Runtime+Modding;MelonLoader+Framework+Integration;Runtime+Debugging+%26+Inspection+Tools;Release+Pipeline+Automation" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/cRS4bCKUbe"><img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/BloddyMichi"><img src="https://img.shields.io/badge/GitHub-@BloddyMichi-181717?logo=github" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=BloddyMichi&color=9B59B6&label=Profile+views" alt="Profile views" />
+</p>
+
+<p align="center">
+  <b>Language / Sprache:</b> 🇬🇧 English (below) · <a href="#-deutsch">🇩🇪 Deutsch</a>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 📑 Contents
+
+- [About Me](#about)
+- [Tech Stack](#stack)
+- [GitHub Stats](#stats)
+- [Featured Project](#project)
+- [Expertise](#expertise)
+- [How I Work](#approach)
+- [Current Focus](#focus)
+- [Community & Contact](#contact)
+
+---
+
+<a id="about"></a>
+## 🎯 About Me
+
+I build reliable, well-documented tools for Unity modding — with a focus on **IL2CPP runtime modification**, **framework compatibility**, and **clean release pipelines**. My goal is to make complex modding frameworks approachable and dependable for the people who actually use them.
+
+**Focus areas:**
+
+| | |
+|---|---|
+| 🔧 IL2CPP & Unity runtime modding | 🔗 MelonLoader framework integration |
+| 🔍 Runtime debugging & inspection | 📦 Release pipeline automation |
+| 🎮 Data Center game modding | 🧩 UniverseLib customization |
+
+---
+
+<a id="stack"></a>
+## 🛠️ Tech Stack
+
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+**Core Technologies**
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![IL2CPP](https://img.shields.io/badge/IL2CPP-FF6B6B?style=for-the-badge)
+![MelonLoader](https://img.shields.io/badge/MelonLoader-9B59B6?style=for-the-badge)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+
+**Tools & Platforms**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088F0?style=for-the-badge&logo=githubactions&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+<a id="stats"></a>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BloddyMichi&show_icons=true&theme=tokyonight&hide_border=true" alt="BloddyMichi's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BloddyMichi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BloddyMichi&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
 </p>
 
@@ -20,204 +89,191 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BloddyMichi&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BloddyMichi&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
+</p>
+
 ---
 
-## 🇬🇧 English
+<a id="project"></a>
+## 📦 Featured Project
 
-### 🎯 About Me
+### 🔍 Unity Explorer — Data Center Fork
 
-I'm a dedicated developer focused on creating robust, maintainable tools for Unity modding. My expertise spans IL2CPP runtime modification, compatibility engineering, and custom release pipelines. I specialize in making complex modding frameworks accessible and reliable for end users.
+A production-ready **UnityExplorer** fork optimized for Data Center on **MelonLoader 0.7.2**.
 
-**Primary Focus Areas:**
-- 🔧 IL2CPP & Unity Runtime Modding
-- 🔗 MelonLoader Framework Integration
-- 🔍 Runtime Debugging & Inspection Tools
-- 📦 Release Pipeline Automation
-- 🎮 Data Center Game Modding
+<p align="left">
+  <a href="https://github.com/BloddyMichi/Unity-Explorer-/releases"><img src="https://img.shields.io/github/v/release/BloddyMichi/Unity-Explorer-?style=flat-square&color=9B59B6&label=release" alt="Latest release" /></a>
+  <a href="https://github.com/BloddyMichi/Unity-Explorer-/releases"><img src="https://img.shields.io/github/downloads/BloddyMichi/Unity-Explorer-/total?style=flat-square&color=5865F2&label=downloads" alt="Downloads" /></a>
+  <a href="https://github.com/BloddyMichi/Unity-Explorer-/stargazers"><img src="https://img.shields.io/github/stars/BloddyMichi/Unity-Explorer-?style=flat-square" alt="Stars" /></a>
+  <a href="https://github.com/BloddyMichi/Unity-Explorer-/commits"><img src="https://img.shields.io/github/last-commit/BloddyMichi/Unity-Explorer-?style=flat-square" alt="Last commit" /></a>
+  <a href="https://github.com/BloddyMichi/Unity-Explorer-/blob/main/LICENSE"><img src="https://img.shields.io/github/license/BloddyMichi/Unity-Explorer-?style=flat-square" alt="License" /></a>
+</p>
 
-### 🛠️ Technical Stack
-
-#### Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-#### Core Technologies
-![Unity Engine](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![IL2CPP](https://img.shields.io/badge/IL2CPP-FF6B6B?style=for-the-badge)
-![MelonLoader](https://img.shields.io/badge/MelonLoader%200.7.2-9B59B6?style=for-the-badge)
-![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-
-#### Development Tools & Platforms
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088F0?style=for-the-badge&logo=github%20actions&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-
-### 📋 Key Projects
-
-#### 🔍 **Unity Explorer - Data Center Fork**
-**A production-ready UnityExplorer fork optimized for Data Center with MelonLoader 0.7.2**
-
-- ✅ Full compatibility with Unity 6000+ IL2CPP backend
-- ✅ Tested MelonLoader 0.7.2 Open-Beta integration
-- ✅ Runtime GameObject & Component inspection
+- ✅ Full compatibility with the Unity 6000+ IL2CPP backend
+- ✅ Tested against MelonLoader 0.7.2 (Open-Beta)
+- ✅ Runtime GameObject & component inspection
 - ✅ IL2CPP-compatible debugging tools
 - ✅ Clean release packages with automated installation
 - ✅ Comprehensive wiki documentation
 
-**Repository:** [Unity-Explorer-](https://github.com/BloddyMichi/Unity-Explorer-)
+**→ [github.com/BloddyMichi/Unity-Explorer-](https://github.com/BloddyMichi/Unity-Explorer-)**
 
-### 💼 Expertise & Specializations
+<!-- 📸 Tipp: Ein echtes Bild sagt mehr als jede Beschreibung.
+     Lege einen Screenshot/GIF unter assets/preview.png ab (oder ziehe das Bild in ein GitHub-Issue
+     und kopiere die URL) und aktiviere die Zeile unten:
+<p align="center"><img src="assets/preview.png" alt="Unity Explorer preview" width="700"></p>
+-->
+
+---
+
+<a id="expertise"></a>
+## 💼 Expertise
 
 | Area | Skills |
 |------|--------|
 | **Runtime Modding** | IL2CPP interop, Mono runtime modification, hook-based patching |
-| **Framework Integration** | MelonLoader ecosystem, UniverseLib customization, mod loader compatibility |
+| **Framework Integration** | MelonLoader ecosystem, UniverseLib customization, mod-loader compatibility |
 | **Debugging & Inspection** | Runtime object inspection, component analysis, memory debugging |
 | **Release Engineering** | Automated build pipelines, package distribution, version management |
-| **Documentation** | Technical guides, API documentation, troubleshooting resources |
-| **Scripting & Automation** | PowerShell, Lua, JavaScript for custom tools and workflows |
-
-### 📊 Development Approach
-
-- **Quality First:** Focus on stability and compatibility before feature expansion
-- **User-Centric:** Clear documentation and intuitive installation processes
-- **Maintenance Focused:** Proactive bug tracking and compatibility testing
-- **Community Driven:** Active support and feedback integration
-
-### 🤝 Community & Support
-
-#### Discord Server
-Join our modding community for discussions, support, and collaboration:
-
-**🔗 [discord.gg/cRS4bCKUbe](https://discord.gg/cRS4bCKUbe)**
-
-#### Bug Reports & Feature Requests
-Found an issue? Have a suggestion? Open an issue in the relevant repository with:
-- Detailed description of the problem
-- Steps to reproduce
-- Game version & MelonLoader version
-- Relevant log files (`Latest.log`)
-- Screenshots when applicable
-
-### 📈 Current Development Focus
-
-- 🎯 Improving input and mouse focus behavior in Data Center
-- 🧪 Testing compatibility with latest Data Center updates
-- 📚 Enhancing installation and troubleshooting documentation
-- ✅ Refining release package structure and distribution
-- 🔐 Strengthening runtime stability and error handling
-
-### 📫 Get in Touch
-
-- **Discord:** [Join Community Server](https://discord.gg/cRS4bCKUbe)
-- **GitHub Issues:** [Report Issues](https://github.com/BloddyMichi/Unity-Explorer-/issues)
-- **GitHub Discussions:** [Start a Discussion](https://github.com/BloddyMichi/Unity-Explorer-/discussions)
+| **Documentation** | Technical guides, API docs, troubleshooting resources |
+| **Scripting & Automation** | PowerShell, Lua & JavaScript for custom tools and workflows |
 
 ---
 
-## 🇩🇪 Deutsch
+<a id="approach"></a>
+## 📐 How I Work
+
+| Principle | What it means |
+|-----------|---------------|
+| **Quality first** | Stability and compatibility before feature expansion |
+| **User-centric** | Clear docs and painless installation |
+| **Maintenance-focused** | Proactive bug tracking and compatibility testing |
+| **Community-driven** | Active support and feedback integration |
+
+---
+
+<a id="focus"></a>
+## 📈 Current Focus
+
+- 🎯 Improving input & mouse-focus behavior in Data Center
+- 🧪 Testing compatibility with the latest Data Center updates
+- 📚 Enhancing installation & troubleshooting documentation
+- 📦 Refining release package structure and distribution
+- 🔐 Strengthening runtime stability and error handling
+
+---
+
+<a id="contact"></a>
+## 🤝 Community & Contact
+
+- 💬 **Discord:** [discord.gg/cRS4bCKUbe](https://discord.gg/cRS4bCKUbe) — discussions, support & collaboration
+- 🐛 **Bug reports / feature requests:** open an issue in the relevant repo with a description, steps to reproduce, game & MelonLoader version, the `Latest.log`, and screenshots when applicable
+- 🗨️ **Discussions:** [start a discussion](https://github.com/BloddyMichi/Unity-Explorer-/discussions)
+- 🐞 **Issues:** [report an issue](https://github.com/BloddyMichi/Unity-Explorer-/issues)
+
+<p align="right"><a href="#top">⬆️ Back to top</a></p>
+
+---
+
+<a id="-deutsch"></a>
+<details>
+<summary><h2>🇩🇪 Deutsch (aufklappen)</h2></summary>
+
+<br>
 
 ### 🎯 Über mich
 
-Ich bin ein engagierter Entwickler, der sich auf die Erstellung robuster und wartbarer Tools für Unity-Modding spezialisiert hat. Meine Expertise umfasst IL2CPP-Laufzeitmodifikation, Kompatibilitätsengineering und benutzerdefinierte Release-Pipelines. Ich spezialisiere mich darauf, komplexe Modding-Frameworks zugänglich und zuverlässig für Endbenutzer zu gestalten.
+Ich entwickle zuverlässige, gut dokumentierte Tools für Unity-Modding — mit Fokus auf **IL2CPP-Laufzeitmodifikation**, **Framework-Kompatibilität** und **saubere Release-Pipelines**. Mein Ziel: komplexe Modding-Frameworks zugänglich und verlässlich für die Menschen machen, die sie tatsächlich nutzen.
 
-**Primäre Fokusgebiete:**
-- 🔧 IL2CPP & Unity Laufzeit-Modding
-- 🔗 MelonLoader Framework Integration
-- 🔍 Laufzeit-Debugging & Inspektions-Tools
-- 📦 Release Pipeline Automatisierung
-- 🎮 Data Center Spiel-Modding
+**Fokusgebiete:**
+
+| | |
+|---|---|
+| 🔧 IL2CPP & Unity Laufzeit-Modding | 🔗 MelonLoader Framework-Integration |
+| 🔍 Laufzeit-Debugging & Inspektion | 📦 Release-Pipeline-Automatisierung |
+| 🎮 Data Center Spiel-Modding | 🧩 UniverseLib-Anpassung |
 
 ### 🛠️ Technischer Stack
 
-#### Programmiersprachen
+**Programmiersprachen**
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-#### Kern-Technologien
-![Unity Engine](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+**Kern-Technologien**
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![IL2CPP](https://img.shields.io/badge/IL2CPP-FF6B6B?style=for-the-badge)
-![MelonLoader](https://img.shields.io/badge/MelonLoader%200.7.2-9B59B6?style=for-the-badge)
-![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![MelonLoader](https://img.shields.io/badge/MelonLoader-9B59B6?style=for-the-badge)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
-#### Entwicklungs-Tools & Plattformen
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088F0?style=for-the-badge&logo=github%20actions&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+**Tools & Plattformen**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088F0?style=for-the-badge&logo=githubactions&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
-### 📋 Hauptprojekte
+### 📦 Hauptprojekt
 
-#### 🔍 **Unity Explorer - Data Center Fork**
-**Ein produktionsreifer UnityExplorer-Fork optimiert für Data Center mit MelonLoader 0.7.2**
+#### 🔍 Unity Explorer — Data Center Fork
 
-- ✅ Vollständige Kompatibilität mit Unity 6000+ IL2CPP Backend
-- ✅ Getestete MelonLoader 0.7.2 Open-Beta Integration
-- ✅ GameObject & Komponenten Laufzeit-Inspektion
+Ein produktionsreifer **UnityExplorer**-Fork, optimiert für Data Center mit **MelonLoader 0.7.2**.
+
+- ✅ Vollständige Kompatibilität mit dem Unity 6000+ IL2CPP-Backend
+- ✅ Getestet mit MelonLoader 0.7.2 (Open-Beta)
+- ✅ GameObject- & Komponenten-Inspektion zur Laufzeit
 - ✅ IL2CPP-kompatible Debugging-Tools
 - ✅ Saubere Release-Pakete mit automatisierter Installation
 - ✅ Umfangreiche Wiki-Dokumentation
 
-**Repository:** [Unity-Explorer-](https://github.com/BloddyMichi/Unity-Explorer-)
+**→ [github.com/BloddyMichi/Unity-Explorer-](https://github.com/BloddyMichi/Unity-Explorer-)**
 
-### 💼 Expertise & Spezialisierungen
+### 💼 Expertise
 
 | Bereich | Fähigkeiten |
 |---------|-------------|
-| **Laufzeit-Modding** | IL2CPP Interop, Mono Laufzeit-Modifikation, Hook-basiertes Patching |
-| **Framework Integration** | MelonLoader Ökosystem, UniverseLib Anpassung, Mod-Loader Kompatibilität |
-| **Debugging & Inspektion** | Laufzeit-Objekt Inspektion, Komponenten-Analyse, Memory Debugging |
-| **Release Engineering** | Automatisierte Build-Pipelines, Paketverteilung, Versionsverwaltung |
+| **Laufzeit-Modding** | IL2CPP-Interop, Mono-Laufzeitmodifikation, Hook-basiertes Patching |
+| **Framework-Integration** | MelonLoader-Ökosystem, UniverseLib-Anpassung, Mod-Loader-Kompatibilität |
+| **Debugging & Inspektion** | Laufzeit-Objektinspektion, Komponenten-Analyse, Memory-Debugging |
+| **Release-Engineering** | Automatisierte Build-Pipelines, Paketverteilung, Versionsverwaltung |
 | **Dokumentation** | Technische Anleitungen, API-Dokumentation, Fehlerbehebungs-Ressourcen |
-| **Scripting & Automatisierung** | PowerShell, Lua, JavaScript für eigene Tools und Workflows |
+| **Scripting & Automatisierung** | PowerShell, Lua & JavaScript für eigene Tools und Workflows |
 
-### 📊 Entwicklungs-Ansatz
+### 📐 Arbeitsweise
 
-- **Qualität an erster Stelle:** Fokus auf Stabilität und Kompatibilität vor Feature-Expansion
-- **Benutzer-Zentriert:** Klare Dokumentation und intuitive Installationsprozesse
-- **Wartungs-Fokussiert:** Proaktive Bug-Verfolgung und Kompatibilitätstests
-- **Gemeinschafts-Getrieben:** Aktive Unterstützung und Feedback-Integration
+| Prinzip | Bedeutung |
+|---------|-----------|
+| **Qualität zuerst** | Stabilität und Kompatibilität vor Feature-Expansion |
+| **Benutzer-zentriert** | Klare Dokumentation und reibungslose Installation |
+| **Wartungs-fokussiert** | Proaktive Bug-Verfolgung und Kompatibilitätstests |
+| **Gemeinschafts-getrieben** | Aktive Unterstützung und Feedback-Integration |
 
-### 🤝 Gemeinschaft & Support
-
-#### Discord Server
-Tritt unserer Modding-Community für Diskussionen, Support und Zusammenarbeit bei:
-
-**🔗 [discord.gg/cRS4bCKUbe](https://discord.gg/cRS4bCKUbe)**
-
-#### Fehlerberichte & Feature-Anfragen
-Hast du ein Problem gefunden? Hast du einen Vorschlag? Öffne ein Issue im entsprechenden Repository mit:
-- Detaillierte Problembeschreibung
-- Schritte zum Reproduzieren
-- Spielversion & MelonLoader Version
-- Relevante Log-Dateien (`Latest.log`)
-- Screenshots wenn möglich
-
-### 📈 Aktueller Entwicklungs-Fokus
+### 📈 Aktueller Fokus
 
 - 🎯 Verbesserung des Input- und Mouse-Focus-Verhaltens in Data Center
-- 🧪 Testen der Kompatibilität mit neuesten Data Center Updates
-- 📚 Verbesserung der Installationsanleitung und Fehlerbehebungs-Dokumentation
-- ✅ Verfeinern der Release-Paketstruktur und Verteilung
-- 🔐 Stärkung der Laufzeitstabilität und Fehlerbehandlung
+- 🧪 Kompatibilitätstests mit den neuesten Data Center Updates
+- 📚 Ausbau der Installations- & Fehlerbehebungs-Dokumentation
+- 📦 Verfeinerung von Release-Paketstruktur und Verteilung
+- 🔐 Stärkung von Laufzeitstabilität und Fehlerbehandlung
 
-### 📫 Kontakt
+### 🤝 Community & Kontakt
 
-- **Discord:** [Community Server beitreten](https://discord.gg/cRS4bCKUbe)
-- **GitHub Issues:** [Issues melden](https://github.com/BloddyMichi/Unity-Explorer-/issues)
-- **GitHub Discussions:** [Diskussion starten](https://github.com/BloddyMichi/Unity-Explorer-/discussions)
+- 💬 **Discord:** [discord.gg/cRS4bCKUbe](https://discord.gg/cRS4bCKUbe) — Diskussionen, Support & Zusammenarbeit
+- 🐛 **Fehlerberichte / Feature-Anfragen:** Öffne ein Issue im passenden Repo mit Beschreibung, Reproduktionsschritten, Spiel- & MelonLoader-Version, der `Latest.log` und ggf. Screenshots
+- 🗨️ **Discussions:** [Diskussion starten](https://github.com/BloddyMichi/Unity-Explorer-/discussions)
+- 🐞 **Issues:** [Issue melden](https://github.com/BloddyMichi/Unity-Explorer-/issues)
+
+</details>
 
 ---
 
-## 📄 Lizenz & Zuschreibung
+## 📄 License & Attribution
 
-Meine Projekte werden unter der **GPL-3.0 License** gepflegt, um Open-Source-Integrität und Gemeinschaftsbeiträge sicherzustellen.
+Projects are maintained under the **GPL-3.0 License** to ensure open-source integrity and community contribution.
 
-Entwickelt mit Bezug zu [UnityExplorer](https://github.com/sinai-dev/UnityExplorer) und [UniverseLib](https://github.com/sinai-dev/UniverseLib) Frameworks.
+Built with reference to the [UnityExplorer](https://github.com/sinai-dev/UnityExplorer) and [UniverseLib](https://github.com/sinai-dev/UniverseLib) frameworks.
