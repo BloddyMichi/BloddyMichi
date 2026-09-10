@@ -81,7 +81,7 @@ I build reliable, well-documented tools for Unity modding — with a focus on **
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BloddyMichi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BloddyMichi&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BloddyMichi&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
 </p>
 
