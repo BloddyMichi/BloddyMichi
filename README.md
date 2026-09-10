@@ -5,6 +5,21 @@
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?logo=discord)](https://discord.gg/cRS4bCKUbe)
 [![GitHub](https://img.shields.io/badge/GitHub-@BloddyMichi-181717?logo=github)](https://github.com/BloddyMichi)
 
+**Language / Sprache:** [🇬🇧 English](#-english) · [🇩🇪 Deutsch](#-deutsch)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BloddyMichi&show_icons=true&theme=tokyonight&hide_border=true" alt="BloddyMichi's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BloddyMichi&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BloddyMichi&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
 ---
 
 ## 🇬🇧 English
@@ -117,7 +132,7 @@ Ich bin ein engagierter Entwickler, der sich auf die Erstellung robuster und war
 - 📦 Release Pipeline Automatisierung
 - 🎮 Data Center Spiel-Modding
 
-### 🛠️ Technical Stack
+### 🛠️ Technischer Stack
 
 #### Programmiersprachen
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -160,8 +175,8 @@ Ich bin ein engagierter Entwickler, der sich auf die Erstellung robuster und war
 | **Framework Integration** | MelonLoader Ökosystem, UniverseLib Anpassung, Mod-Loader Kompatibilität |
 | **Debugging & Inspektion** | Laufzeit-Objekt Inspektion, Komponenten-Analyse, Memory Debugging |
 | **Release Engineering** | Automatisierte Build-Pipelines, Paketverteilung, Versionsverwaltung |
-| **Dokumentation** | Technische Guides, API Dokumentation, Troubleshooting Ressourcen |
-| **Scripting & Automatisierung** | PowerShell, Lua, JavaScript für Custom Tools und Workflows |
+| **Dokumentation** | Technische Anleitungen, API-Dokumentation, Fehlerbehebungs-Ressourcen |
+| **Scripting & Automatisierung** | PowerShell, Lua, JavaScript für eigene Tools und Workflows |
 
 ### 📊 Entwicklungs-Ansatz
 
@@ -189,7 +204,7 @@ Hast du ein Problem gefunden? Hast du einen Vorschlag? Öffne ein Issue im entsp
 
 - 🎯 Verbesserung des Input- und Mouse-Focus-Verhaltens in Data Center
 - 🧪 Testen der Kompatibilität mit neuesten Data Center Updates
-- 📚 Verbesserung der Installationsanleitung und Troubleshooting-Dokumentation
+- 📚 Verbesserung der Installationsanleitung und Fehlerbehebungs-Dokumentation
 - ✅ Verfeinern der Release-Paketstruktur und Verteilung
 - 🔐 Stärkung der Laufzeitstabilität und Fehlerbehandlung
 
@@ -206,7 +221,3 @@ Hast du ein Problem gefunden? Hast du einen Vorschlag? Öffne ein Issue im entsp
 Meine Projekte werden unter der **GPL-3.0 License** gepflegt, um Open-Source-Integrität und Gemeinschaftsbeiträge sicherzustellen.
 
 Entwickelt mit Bezug zu [UnityExplorer](https://github.com/sinai-dev/UnityExplorer) und [UniverseLib](https://github.com/sinai-dev/UniverseLib) Frameworks.
-
----
-
-**Last Updated / Zuletzt aktualisiert:** May 12, 2026
