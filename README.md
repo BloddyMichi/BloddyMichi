@@ -72,7 +72,7 @@ I build reliable, well-documented tools for Unity modding — focused on **IL2CP
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BloddyMichi&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BloddyMichi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BloddyMichi&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
 </p>
 
@@ -87,7 +87,7 @@ I build reliable, well-documented tools for Unity modding — focused on **IL2CP
 
 ### 🔍 Unity Explorer — Data Center Fork
 
-An actively maintained **UnityExplorer** fork for Data Center on **MelonLoader 0.7.2** — refined across multiple public releases.
+An actively maintained **UnityExplorer** fork for Data Center on **MelonLoader 0.7.3** — refined across multiple public releases.
 
 <p align="left">
   <a href="https://github.com/BloddyMichi/Unity-Explorer-/releases"><img src="https://img.shields.io/github/v/release/BloddyMichi/Unity-Explorer-?style=flat-square&color=9B59B6&label=release" alt="Latest release" /></a>
@@ -98,7 +98,7 @@ An actively maintained **UnityExplorer** fork for Data Center on **MelonLoader 0
 </p>
 
 - ✅ Full compatibility with the Unity 6000+ IL2CPP backend
-- ✅ Tested against MelonLoader 0.7.2 (Open-Beta)
+- ✅ Tested against MelonLoader 0.7.3 (Open-Beta)
 - ✅ Runtime GameObject & component inspection
 - ✅ IL2CPP-compatible debugging tools
 - ✅ Clean release packages with automated installation
@@ -188,10 +188,10 @@ Ich entwickle zuverlässige, gut dokumentierte Tools für Unity-Modding — mit 
 
 #### 🔍 Unity Explorer — Data Center Fork
 
-Ein aktiv gepflegter **UnityExplorer**-Fork für Data Center mit **MelonLoader 0.7.2** — verfeinert über mehrere öffentliche Releases.
+Ein aktiv gepflegter **UnityExplorer**-Fork für Data Center mit **MelonLoader 0.7.3** — verfeinert über mehrere öffentliche Releases.
 
 - ✅ Vollständige Kompatibilität mit dem Unity 6000+ IL2CPP-Backend
-- ✅ Getestet mit MelonLoader 0.7.2 (Open-Beta)
+- ✅ Getestet mit MelonLoader 0.7.3 (Open-Beta)
 - ✅ GameObject- & Komponenten-Inspektion zur Laufzeit
 - ✅ IL2CPP-kompatible Debugging-Tools
 - ✅ Saubere Release-Pakete mit automatisierter Installation
