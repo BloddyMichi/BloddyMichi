@@ -66,7 +66,7 @@ I build reliable, well-documented tools for Unity modding — with a focus on **
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![IL2CPP](https://img.shields.io/badge/IL2CPP-FF6B6B?style=for-the-badge)
 ![MelonLoader](https://img.shields.io/badge/MelonLoader-9B59B6?style=for-the-badge)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 **Tools & Platforms**
 
@@ -81,16 +81,12 @@ I build reliable, well-documented tools for Unity modding — with a focus on **
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BloddyMichi&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BloddyMichi&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BloddyMichi&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BloddyMichi&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BloddyMichi&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
 </p>
 
 ---
@@ -100,7 +96,7 @@ I build reliable, well-documented tools for Unity modding — with a focus on **
 
 ### 🔍 Unity Explorer — Data Center Fork
 
-A production-ready **UnityExplorer** fork optimized for Data Center on **MelonLoader 0.7.2**.
+An actively maintained **UnityExplorer** fork for Data Center on **MelonLoader 0.7.2** — refined across multiple public releases.
 
 <p align="left">
   <a href="https://github.com/BloddyMichi/Unity-Explorer-/releases"><img src="https://img.shields.io/github/v/release/BloddyMichi/Unity-Explorer-?style=flat-square&color=9B59B6&label=release" alt="Latest release" /></a>
@@ -209,7 +205,7 @@ Ich entwickle zuverlässige, gut dokumentierte Tools für Unity-Modding — mit 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![IL2CPP](https://img.shields.io/badge/IL2CPP-FF6B6B?style=for-the-badge)
 ![MelonLoader](https://img.shields.io/badge/MelonLoader-9B59B6?style=for-the-badge)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 **Tools & Plattformen**
 
@@ -222,7 +218,7 @@ Ich entwickle zuverlässige, gut dokumentierte Tools für Unity-Modding — mit 
 
 #### 🔍 Unity Explorer — Data Center Fork
 
-Ein produktionsreifer **UnityExplorer**-Fork, optimiert für Data Center mit **MelonLoader 0.7.2**.
+Ein aktiv gepflegter **UnityExplorer**-Fork für Data Center mit **MelonLoader 0.7.2** — verfeinert über mehrere öffentliche Releases.
 
 - ✅ Vollständige Kompatibilität mit dem Unity 6000+ IL2CPP-Backend
 - ✅ Getestet mit MelonLoader 0.7.2 (Open-Beta)
