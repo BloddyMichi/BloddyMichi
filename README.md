@@ -29,7 +29,6 @@
 - [GitHub Stats](#stats)
 - [Featured Project](#project)
 - [Expertise](#expertise)
-- [How I Work](#approach)
 - [Current Focus](#focus)
 - [Community & Contact](#contact)
 
@@ -38,15 +37,7 @@
 <a id="about"></a>
 ## 🎯 About Me
 
-I build reliable, well-documented tools for Unity modding — with a focus on **IL2CPP runtime modification**, **framework compatibility**, and **clean release pipelines**. My goal is to make complex modding frameworks approachable and dependable for the people who actually use them.
-
-**Focus areas:**
-
-| | |
-|---|---|
-| 🔧 IL2CPP & Unity runtime modding | 🔗 MelonLoader framework integration |
-| 🔍 Runtime debugging & inspection | 📦 Release pipeline automation |
-| 🎮 Data Center game modding | 🧩 UniverseLib customization |
+I build reliable, well-documented tools for Unity modding — focused on **IL2CPP runtime modification**, **framework compatibility**, and **clean release pipelines**. My aim is to make complex modding frameworks approachable and dependable for the people who actually use them: stability and clear docs before feature count, backed by active support and compatibility testing.
 
 ---
 
@@ -86,7 +77,7 @@ I build reliable, well-documented tools for Unity modding — with a focus on **
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BloddyMichi&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=BloddyMichi&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
@@ -132,20 +123,8 @@ An actively maintained **UnityExplorer** fork for Data Center on **MelonLoader 0
 | **Framework Integration** | MelonLoader ecosystem, UniverseLib customization, mod-loader compatibility |
 | **Debugging & Inspection** | Runtime object inspection, component analysis, memory debugging |
 | **Release Engineering** | Automated build pipelines, package distribution, version management |
-| **Documentation** | Technical guides, API docs, troubleshooting resources |
+| **Documentation** | Technical guides, release notes, troubleshooting resources |
 | **Scripting & Automation** | PowerShell, Lua & JavaScript for custom tools and workflows |
-
----
-
-<a id="approach"></a>
-## 📐 How I Work
-
-| Principle | What it means |
-|-----------|---------------|
-| **Quality first** | Stability and compatibility before feature expansion |
-| **User-centric** | Clear docs and painless installation |
-| **Maintenance-focused** | Proactive bug tracking and compatibility testing |
-| **Community-driven** | Active support and feedback integration |
 
 ---
 
@@ -172,23 +151,14 @@ An actively maintained **UnityExplorer** fork for Data Center on **MelonLoader 0
 
 ---
 
-<a id="-deutsch"></a>
-<details>
+<details id="-deutsch">
 <summary><h2>🇩🇪 Deutsch (aufklappen)</h2></summary>
 
 <br>
 
 ### 🎯 Über mich
 
-Ich entwickle zuverlässige, gut dokumentierte Tools für Unity-Modding — mit Fokus auf **IL2CPP-Laufzeitmodifikation**, **Framework-Kompatibilität** und **saubere Release-Pipelines**. Mein Ziel: komplexe Modding-Frameworks zugänglich und verlässlich für die Menschen machen, die sie tatsächlich nutzen.
-
-**Fokusgebiete:**
-
-| | |
-|---|---|
-| 🔧 IL2CPP & Unity Laufzeit-Modding | 🔗 MelonLoader Framework-Integration |
-| 🔍 Laufzeit-Debugging & Inspektion | 📦 Release-Pipeline-Automatisierung |
-| 🎮 Data Center Spiel-Modding | 🧩 UniverseLib-Anpassung |
+Ich entwickle zuverlässige, gut dokumentierte Tools für Unity-Modding — mit Fokus auf **IL2CPP-Laufzeitmodifikation**, **Framework-Kompatibilität** und **saubere Release-Pipelines**. Mein Ziel: komplexe Modding-Frameworks zugänglich und verlässlich für die Menschen machen, die sie tatsächlich nutzen — Stabilität und klare Doku vor Feature-Anzahl, gestützt auf aktiven Support und Kompatibilitätstests.
 
 ### 🛠️ Technischer Stack
 
@@ -237,17 +207,8 @@ Ein aktiv gepflegter **UnityExplorer**-Fork für Data Center mit **MelonLoader 0
 | **Framework-Integration** | MelonLoader-Ökosystem, UniverseLib-Anpassung, Mod-Loader-Kompatibilität |
 | **Debugging & Inspektion** | Laufzeit-Objektinspektion, Komponenten-Analyse, Memory-Debugging |
 | **Release-Engineering** | Automatisierte Build-Pipelines, Paketverteilung, Versionsverwaltung |
-| **Dokumentation** | Technische Anleitungen, API-Dokumentation, Fehlerbehebungs-Ressourcen |
+| **Dokumentation** | Technische Anleitungen, Release-Notes, Fehlerbehebungs-Ressourcen |
 | **Scripting & Automatisierung** | PowerShell, Lua & JavaScript für eigene Tools und Workflows |
-
-### 📐 Arbeitsweise
-
-| Prinzip | Bedeutung |
-|---------|-----------|
-| **Qualität zuerst** | Stabilität und Kompatibilität vor Feature-Expansion |
-| **Benutzer-zentriert** | Klare Dokumentation und reibungslose Installation |
-| **Wartungs-fokussiert** | Proaktive Bug-Verfolgung und Kompatibilitätstests |
-| **Gemeinschafts-getrieben** | Aktive Unterstützung und Feedback-Integration |
 
 ### 📈 Aktueller Fokus
 
