@@ -115,9 +115,9 @@ A production-ready **UnityExplorer** fork optimized for Data Center on **MelonLo
 - ✅ Runtime GameObject & component inspection
 - ✅ IL2CPP-compatible debugging tools
 - ✅ Clean release packages with automated installation
-- ✅ Comprehensive wiki documentation
+- ✅ Setup & usage documented in the [project Wiki](https://github.com/BloddyMichi/Unity-Explorer-/wiki)
 
-**→ [github.com/BloddyMichi/Unity-Explorer-](https://github.com/BloddyMichi/Unity-Explorer-)**
+**Get it:** [📦 Latest release](https://github.com/BloddyMichi/Unity-Explorer-/releases/latest) · [📖 Wiki / install guide](https://github.com/BloddyMichi/Unity-Explorer-/wiki) · [📂 Repository](https://github.com/BloddyMichi/Unity-Explorer-)
 
 <!-- 📸 Tipp: Ein echtes Bild sagt mehr als jede Beschreibung.
      Lege einen Screenshot/GIF unter assets/preview.png ab (oder ziehe das Bild in ein GitHub-Issue
@@ -229,9 +229,9 @@ Ein produktionsreifer **UnityExplorer**-Fork, optimiert für Data Center mit **M
 - ✅ GameObject- & Komponenten-Inspektion zur Laufzeit
 - ✅ IL2CPP-kompatible Debugging-Tools
 - ✅ Saubere Release-Pakete mit automatisierter Installation
-- ✅ Umfangreiche Wiki-Dokumentation
+- ✅ Einrichtung & Nutzung im [Projekt-Wiki](https://github.com/BloddyMichi/Unity-Explorer-/wiki) dokumentiert
 
-**→ [github.com/BloddyMichi/Unity-Explorer-](https://github.com/BloddyMichi/Unity-Explorer-)**
+**Download:** [📦 Neuester Release](https://github.com/BloddyMichi/Unity-Explorer-/releases/latest) · [📖 Wiki / Installationsanleitung](https://github.com/BloddyMichi/Unity-Explorer-/wiki) · [📂 Repository](https://github.com/BloddyMichi/Unity-Explorer-)
 
 ### 💼 Expertise
 
